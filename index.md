@@ -23,3 +23,16 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 </pre>
+
+
+```
+ - [ ] Turn on GitHub Pages
+ - [ ] Outline my portfolio
+ - [ ] Introduce myself to the world
+```
+
+#### How it looks
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
